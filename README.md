@@ -22,5 +22,5 @@
   -->
   
   <h2>Mis conocimientos</h2>
- <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apache.png' height='42px'/>
+ <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/mysql.png' height='42px'/>
 </div>
