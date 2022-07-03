@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-**AvisSHACk/avisshack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='left' src='https://c.tenor.com/KDa_fSsIkgAAAAAi/konoshuba-aqua.gif' width='20%'>  
+**AvisSHACk/avisshack**
+Mi nombre es Anthony Victor Serquén Sevilla, soy estudiando de senati y actualmente estoy por cursar el sexto semestre de la carrera la carrera de ing de software con IA. Soy muy apasionado por la tecnologia y estoy abierto a aprender todo lo que se me proponga y afrontar nuevos retos en el dia a dia.
 
 Here are some ideas to get you started:
 
