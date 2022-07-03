@@ -7,6 +7,8 @@
 <div>
  <!-- **AvisSHACk/avisshack** -->
  Mi nombre es Anthony Victor Serquén Sevilla, soy estudiante de senati y actualmente estoy por cursar el sexto semestre de la carrera la carrera de ing de software con IA. Soy muy apasionado por la tecnologia y estoy dispuesto a aprender todo lo que se me proponga y afrontar nuevos retos en el dia a dia.
+ 
+ ![](https://komarev.com/ghpvc/?username=AvisSHACk&style=flat)
 
  <!-- Here are some ideas to get you started:
 
