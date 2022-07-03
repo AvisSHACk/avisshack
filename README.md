@@ -25,6 +25,7 @@
   -->
   
   <h2>Mis conocimientos</h2>
+ <p align="center">
  <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/html-1.svg' height='42px'/>
  <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/css-3.svg' height='42px'/>
  <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/sass-1.svg' height='42px'/>
@@ -35,4 +36,5 @@
  <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/firebase-1.svg' height='42px'/>
  <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/git.svg' height='42px'/>
  <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/github-icon.svg' height='42px'/>
+  </p>
 </div>
