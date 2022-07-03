@@ -25,11 +25,11 @@
  <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/html-1.svg' height='42px'/>
  <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/css-3.svg' height='42px'/>
  <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/sass-1.svg' height='42px'/>
- <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/logo-javascript.svg' height='42px'/></div>
- <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/php-1.svg' height='42px'/></div>
- <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/mariadb.svg' height='42px'/></div>
- <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/react-2.svg' height='42px'/></div>
- <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/firebase-1.svg' height='42px'/></div>
- <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/git.svg' height='42px'/></div>
- <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/github-icon.svg' height='42px'/></div>
+ <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/logo-javascript.svg' height='42px'/>
+ <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/php-1.svg' height='42px'/>
+ <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/mariadb.svg' height='42px'/>
+ <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/react-2.svg' height='42px'/>
+ <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/firebase-1.svg' height='42px'/>
+ <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/git.svg' height='42px'/>
+ <img src='https://raw.githubusercontent.com/AvisSHACk/avisshack/main/github-icon.svg' height='42px'/>
 </div>
