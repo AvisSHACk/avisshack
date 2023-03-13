@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Hola, soy recientemente egresado en la carrera técnica de Ingeniería de Software con IA en ETI SENATi, actualmente tengo 24 años y estoy buscando mi primer empleo, tengo experiencia en la I.E. Santa Magdalena sofia Barat ubicada en la ciudad de Chiclayo/Lambayeque donde desarrolle una biblioteca virtual para uso de todas las personas relacionadas a la institución.<br>Me considero bastante responsable, competente y siempre estoy tratando de dar lo mejor de mí en cualquier reto que se me proponga.<br>Tengo conocimientos en HTML, CSS, SASS, JAVASCRIPT, REACTJS, FIREBASE, PHP, MYSQL, GIT, GITHUB, FIGMA, Gulp.
+Hola, tengo experiencia en la I.E. Santa Magdalena sofia Barat ubicada en la ciudad de Chiclayo/Lambayeque donde desarrolle una biblioteca virtual para uso de todas las personas relacionadas a la institución.<br>Me considero bastante responsable, competente y siempre estoy tratando de dar lo mejor de mí en cualquier reto que se me proponga.<br>Tengo conocimientos en HTML, CSS, SASS, JAVASCRIPT, REACTJS, FIREBASE, PHP, MYSQL, GIT, GITHUB, FIGMA, Gulp.
 
 
 ## 🌐 Redes sociales:
